@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/wepi/github/cool_crt_thingies/oscilloscope/ninja",
+  "command": "/usr/bin/c++ -isystem /usr/include/SDL2 -o CMakeFiles/oscilloscope.dir/src/main.cpp.o -c /home/wepi/github/cool_crt_thingies/oscilloscope/src/main.cpp",
+  "file": "/home/wepi/github/cool_crt_thingies/oscilloscope/src/main.cpp",
+  "output": "/home/wepi/github/cool_crt_thingies/oscilloscope/ninja/CMakeFiles/oscilloscope.dir/src/main.cpp.o"
+}
+]

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/wepi/github/cool_crt_thingies/oscilloscope/ninja/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

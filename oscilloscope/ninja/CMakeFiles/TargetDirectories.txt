@@ -1,0 +1,3 @@
+/home/wepi/github/cool_crt_thingies/oscilloscope/ninja/CMakeFiles/oscilloscope.dir
+/home/wepi/github/cool_crt_thingies/oscilloscope/ninja/CMakeFiles/edit_cache.dir
+/home/wepi/github/cool_crt_thingies/oscilloscope/ninja/CMakeFiles/rebuild_cache.dir
